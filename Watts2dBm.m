@@ -1,4 +1,5 @@
 function x = Watts2dBm(P)
+% x = Watts2dBm(P)
 % transform power to dBm 
 % P:  powerin mW 
 % x:  in dBm
